@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CHF</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating_intro">Did your heart failure prevent you from living as your wanted during the day by:<br/> No (0), Very little (1), Little (2), Moderate (3), Much (4), Very much (5)</string>
+</resources>
